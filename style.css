@@ -1,0 +1,10 @@
+/* Basic page resets and body styling */
+body {
+    background-color: #f0f2f5; /* Light grey background */
+    font-family: Arial, sans-serif; /* Clean font stack */
+    color: #333; /* Dark grey text for readability */
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
